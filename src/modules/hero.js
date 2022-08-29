@@ -1,11 +1,12 @@
 import React from "react";
 
 const Hero = () => {
+
     return (
 <div className="hero-image">
   <div className="hero-text">
-    <h1>La concha de tu madre All Boys</h1>
-    <button type="button" class="btn btn-primary">¡Conocenos!</button>
+    <h1>The Official Squad Web</h1>
+    <a href="#ancla-1"><button type="button" class="btn btn-primary" hre>¡Conocenos!</button></a>
   </div>
 </div>
     )
