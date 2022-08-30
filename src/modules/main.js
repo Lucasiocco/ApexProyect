@@ -21,7 +21,9 @@ const Main = () => {
                 </div>
                 <div class="texto2">
                     <p>Apoyanos en nuestro canal de Twich, donde hacemos contenido todas las semanas!</p>
+                    <a href=""><img src="./img/twitch2.png" alt="" /></a>
                     <p>Tambien podes ver contenido destacado en nuestro canal de Youtube!</p>
+                    <a href=""><img src="./img/youtube2.png" alt="" /></a>
                 </div>
             </div>
         </div>

@@ -5,7 +5,7 @@ const Header = () => {
 <div className="containerHeader">
 <a name="ancla-1"></a>
   <div class="container-fluid">
-    <a class="navbar-brand" href="#"><img class="logoNavbar" src="./img/logoFooter.png" alt="" /></a>
+    <a class="navbar-brand" href="#"><img class="logoNavbar" src="./img/logoFooter2.png" alt="" /></a>
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" href="#">Inicio</a>
